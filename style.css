@@ -1,3 +1,18 @@
 .container{
     text-align: center;
 }
+
+.botão{
+    background-color: black;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;
+    border-color:black;
+    margin-right: 10px;
+
+}
+
+.botão-1{
+    display: flex;
+    padding-left: 40%;
+}
